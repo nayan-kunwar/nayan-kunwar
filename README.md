@@ -10,7 +10,7 @@
 
 <br/>
 
-<a href="https://my-porfolio-sepia.vercel.app/">
+<a href="https://nayankunwar.com/">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/nayan-kunwar-a1732a202/">
