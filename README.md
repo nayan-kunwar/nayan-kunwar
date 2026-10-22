@@ -170,7 +170,7 @@ I'm continuously improving my understanding of:
 
 <div align="center">
 
-<a href="https://my-porfolio-sepia.vercel.app/">
+<a href="https://nayankunwar.com/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-000000?style=for-the-badge" />
 </a>
 
